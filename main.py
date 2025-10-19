@@ -1,4 +1,5 @@
 import streamlit as st
+from src.oxylabs_client import scrape_product_details
 
 
 def render_header():
@@ -18,8 +19,7 @@ def main():
     
     if st.button("Scrape Product") and asin:
         with st.spinner("Scraping product..."):
-            st.write("Scrape")
-            # TODO: scrape product
+            product = scrape_product_details(asin, geo, domain)
         st.success("Product scraped successfully!")
 
 
