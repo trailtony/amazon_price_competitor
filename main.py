@@ -1,5 +1,6 @@
 import streamlit as st
 from src.oxylabs_client import scrape_product_details
+from src.services import scrape_and_store_product
 
 
 def render_header():
@@ -31,8 +32,8 @@ def render_product_card(product):
             currency = product.get("currency", "")
             price = product.get("price", "-")
             info_cols[0].metric("Price", f"{currency} {price}" if currency else price)
-            info_cols[1].metric(f"Brand: {product.get('brand', '-')}")
-            info_cols[2].metric(f"Product: {product.get('product', '-')}")
+            info_cols[1].write(f"Brand: {product.get('brand', '-')}")
+            info_cols[2].write(f"Product: {product.get('product', '-')}")
             
             domain_info = f"amazon.{product.get('amazon_domain', 'com')}"
             geo_info = product.get("geo_location", "-")
@@ -49,7 +50,7 @@ def main():
     
     if st.button("Scrape Product") and asin:
         with st.spinner("Scraping product..."):
-            product = scrape_product_details(asin, geo, domain)
+            product = scrape_and_store_product(asin, geo, domain)
         st.success("Product scraped successfully!")
         render_product_card(product)
 
