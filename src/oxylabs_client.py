@@ -1,6 +1,7 @@
 import os
 import json
 import time
+from numpy import extract
 import requests
 import streamlit as st
 from dotenv import load_dotenv
@@ -72,3 +73,109 @@ def scrape_product_details(asin, geo_location, domain):
     normalized["amazon_domain"] = domain
     normalized["geo_location"] = geo_location
     return normalized
+
+
+def clean_product_name(title):
+    if "-" in title:
+        title = title.split("-")[0]
+    if "|" in title:
+        title = title.split("|")[0]
+    return title.split()
+
+def extract_search_results(content) -> list:
+    items = []
+    if not isinstance(content, dict):
+        return items
+    
+    if "results" in content:
+        results = content["results"]
+        if isinstance(results, dict):
+            if "organic" in results:
+                items.extend(results["organic"])
+            if "paid" in results:
+                items.extend(results["paid"])
+    elif "products" in content and isinstance(content["products", list]):
+        items.extend(content["products"])
+                
+    
+
+def normalize_search_result(item: dict[str:str]) -> dict | None:
+    asin = item.get("asin") or item.get("product_asin")
+    title = item.get("title")
+    
+    if not (asin or title):
+        return None
+    
+    return {
+        "asin": asin,
+        "title": title,
+        "category": item.get("category"),
+        "price": item.get("price"),
+        "rating": item.get("rating")
+        }
+
+
+def search_competitors(query_title, domain, categories, pages=1, geo_location=""):
+    st.write("🔎 Searching for competitors")
+    
+    search_title = clean_product_name(query_title)
+    results = []
+    seen_asins = set()
+    
+    strategies = ["featured", "price_asc", "price_desc", "avg_rating"]
+    
+    for sort_by in strategies:
+        for page in range(1, max(1, pages) + 1):
+            payload = {
+                "source": "amazon_search",
+                "query": search_title,
+                "domain": domain,
+                "pages": page,
+                "sort_by": sort_by,
+                "geo_location": geo_location
+            }
+        
+            if categories and categories[0]:
+                payload["refinements"] = {"category": categories[0]}
+            
+            content = extract_content(post_query(payload))
+            items = extract_search_results(content)
+            for item in items:
+                result = normalize_search_result(item)
+                if result and result["asin"] not in seen_asins:
+                    seen_asins.add(result["asin"])
+                    results.append(result)
+            
+            time.sleep(0.1)
+    
+    st.erite(f"✅ Found {len(results)} competitors")
+    return results
+
+
+
+def scrape_multiple_products(asins, geo_location, domain):
+    st.write("🔎 Scraping details")
+    products = []
+    
+    progress_text = st.empty()
+    progress_bar = st.progress(0)
+    total = len(asins)
+    
+    for idx, a in enumerate(asins, 1):
+        try:
+            progress_text.write(f"Processing competitor {idx}/{total}: {a}")
+            progress_bar.progress(idx / total)
+            
+            product = scrape_product_details(a, geo_location, domain)
+            products.append(product)
+            progress_text.write(f"✅ Found: {product.get('title, a')}")
+        except Exception as e:
+            progress_text.write(f"❌ Failed to scrape {a}")
+            continue
+        time.sleep(0.1)
+    
+    progress_text.empty()
+    progress_bar.empty()
+    
+    st.write(f" Successfully scraped {len(products)} out of {total} competitors")
+    return products
