@@ -1,43 +1,36 @@
 {
     "products": {
         "1": {
-            "asin": "B0DCBB2YTR",
-            "url": "https://www.amazon.es/dp/B0DCBB2YTR?language=es_ES",
-            "brand": "Anker",
-            "price": 0,
-            "stock": "No disponible.",
-            "title": "Anker Zolo Power Bank Cargador port\u00e1til de 25000mAh y 165W, Tres Puertos USB-C de 100W MAX. para la Carga de Varios Dispositivos, Cables Integrados y retr\u00e1ctiles, para iPhone 17/16/15, MacBook y m\u00e1s",
+            "asin": "B0DHZ5X3K3",
+            "url": "https://www.amazon.es/dp/B0DHZ5X3K3?language=es_ES",
+            "brand": "LEGO",
+            "price": 40.16,
+            "stock": "En stock",
+            "title": "LEGO Marvel Busto de Iron Man MK4 - Maqueta para Adultos de Superh\u00e9roe con Minifigura de Tony Stark, Ca\u00f1ones de Hombros y Cabeza Articulada - Regalo para Hombres y Mujeres Fans de los Vengadores 76327",
             "rating": 4.6,
             "images": [
-                "https://m.media-amazon.com/images/I/71q4zHvR8oL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71vQXl+E3fL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71yLBjf8heL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71Dw4XszwwL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71+Z-vV4isL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71NDozBxZ+L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81w4bRboHUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81VXvQ858BL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81YWhdb3OmL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61PNfwnyf5L._AC_SL1200_.jpg",
+                "https://m.media-amazon.com/images/I/81rZ3t2oGIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81OYZ1Iw3+L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81M-o4oaB4L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61sF-UIlLAL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81SF1+6sWCL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/815lmPMWLCL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81fvR5rOD3L._AC_SL1500_.jpg"
             ],
             "categories": [
                 {
                     "ladder": [
                         {
-                            "url": "/electronica/b/ref=dp_bc_1?ie=UTF8&node=599370031",
-                            "name": "Electr\u00f3nica"
+                            "url": "/Juguetes-y-juegos/b/ref=dp_bc_1?ie=UTF8&node=599385031",
+                            "name": "Juguetes y juegos"
                         },
                         {
-                            "url": "/comunicacion-movil-accesorios/b/ref=dp_bc_2?ie=UTF8&node=665492031",
-                            "name": "Comunicaci\u00f3n m\u00f3vil y accesorios"
-                        },
-                        {
-                            "url": "/accesorios-moviles/b/ref=dp_bc_3?ie=UTF8&node=665494031",
-                            "name": "Accesorios"
-                        },
-                        {
-                            "url": "/cargadores-moviles/b/ref=dp_bc_4?ie=UTF8&node=934179031",
-                            "name": "Cargadores"
-                        },
-                        {
-                            "url": "/cargadores-portatiles/b/ref=dp_bc_5?ie=UTF8&node=5520542031",
-                            "name": "Cargadores port\u00e1tiles"
+                            "url": "/juegos-construccion-infantiles/b/ref=dp_bc_2?ie=UTF8&node=1641927031",
+                            "name": "Juegos de construcci\u00f3n"
                         }
                     ]
                 }
@@ -46,197 +39,2017 @@
             "currency": "EUR",
             "buybox": [
                 {
-                    "price": -1,
-                    "stock": "No disponible. Enviar a\u00a0Estados Unidos A\u00f1adir a la Lista de deseos A\u00f1adido a No se ha podido a\u00f1adir el producto a la lista de deseos. Por favor, int\u00e9ntalo de nuevo m\u00e1s tarde. Ha surgido un problema. Se ha producido un error al recuperar las listas de deseos. Int\u00e9ntalo de nuevo. Ha surgido un problema. La lista no est\u00e1 disponible."
+                    "price": 40.16,
+                    "stock": "En stock",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A1AT7YVPFBWXBL",
+                    "seller_name": "Amazon",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "ships_from_name": "Amazon",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "mi\u00e9rcoles, 29 de octubre"
+                            },
+                            "type": "Entrega por 6,71 \u20ac el"
+                        },
+                        {
+                            "date": {
+                                "by": "s\u00e1bado, 25 de octubre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida el"
+                        }
+                    ]
                 }
             ],
             "product_overview": [
                 {
-                    "title": "Tipo de conector",
-                    "description": "USB Tipo A, USB Tipo C"
-                },
-                {
                     "title": "Marca",
-                    "description": "Anker"
+                    "description": "LEGO"
                 },
                 {
-                    "title": "Capacidad de la bater\u00eda",
-                    "description": "25000 Miliamperios hora (mAh)"
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "216"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
                 },
                 {
                     "title": "Color",
-                    "description": "Negro"
+                    "description": "Multicolor"
                 },
                 {
-                    "title": "Funci\u00f3n especial",
-                    "description": "Built In Cable"
+                    "title": "Objetivo educativo",
+                    "description": "Creatividad, creatividad, reconocimiento espacial, enfoque y destreza"
                 },
                 {
-                    "title": "Tensi\u00f3n",
-                    "description": "5 Voltios"
+                    "title": "N\u00famero de piezas",
+                    "description": "434"
                 },
                 {
-                    "title": "Composici\u00f3n de celdas de bater\u00eda",
-                    "description": "Pol\u00edmero de Litio"
+                    "title": "Personaje en dibujos animados",
+                    "description": "Iron Man"
                 },
                 {
-                    "title": "Usos recomendados para el producto",
-                    "description": "Phone"
+                    "title": "Submarca",
+                    "description": "SUPER HEROES"
                 },
                 {
-                    "title": "Fuente de alimentaci\u00f3n",
-                    "description": "El\u00e9ctrico con cable"
+                    "title": "Dimensiones del producto: largo x ancho x alto",
+                    "description": "26,2 x 22,2 x 6,2 cent\u00edmetros"
                 },
                 {
-                    "title": "Peso del producto",
-                    "description": "1,31 Libras"
+                    "title": "Rango de edad (descripci\u00f3n)",
+                    "description": "18+"
                 }
             ],
             "amazon_domain": "es",
             "geo_location": "",
-            "created_at": "2025-10-21T20:16:20.373772"
+            "created_at": "2025-10-23T17:24:26.129593"
         },
         "2": {
-            "asin": "B0DCBB2YTR",
-            "url": "https://www.amazon.es/dp/B0DCBB2YTR?language=es_ES",
-            "brand": "Anker",
+            "asin": "B0CV4K8JJP",
+            "url": "https://www.amazon.es/dp/B0CV4K8JJP?language=es_ES",
+            "brand": "LEGO",
             "price": 0,
-            "stock": "No disponible.",
-            "title": "Anker Zolo Power Bank Cargador port\u00e1til de 25000mAh y 165W, Tres Puertos USB-C de 100W MAX. para la Carga de Varios Dispositivos, Cables Integrados y retr\u00e1ctiles, para iPhone 17/16/15, MacBook y m\u00e1s",
-            "rating": 4.6,
+            "stock": "",
+            "title": "LEGO 40670 Brickheadz Iron Spider-Man",
+            "rating": 4.7,
             "images": [
-                "https://m.media-amazon.com/images/I/71q4zHvR8oL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71vQXl+E3fL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71yLBjf8heL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71Dw4XszwwL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71+Z-vV4isL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71NDozBxZ+L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/51AWn84IWpL._AC_SL1024_.jpg",
+                "https://m.media-amazon.com/images/I/51AAOv4PQjL._AC_SL1024_.jpg",
+                "https://m.media-amazon.com/images/I/61D+-j0gS6L._AC_SL1024_.jpg",
+                "https://m.media-amazon.com/images/I/51tc9EE-O1L._AC_SL1024_.jpg",
+                "https://m.media-amazon.com/images/I/513QaDfHNKL._AC_SL1024_.jpg"
             ],
-            "categories": [],
+            "categories": [
+                {
+                    "ladder": [
+                        {
+                            "url": "/Juguetes-y-juegos/b/ref=dp_bc_1?ie=UTF8&node=599385031",
+                            "name": "Juguetes y juegos"
+                        },
+                        {
+                            "url": "/juegos-construccion-infantiles/b/ref=dp_bc_2?ie=UTF8&node=1641927031",
+                            "name": "Juegos de construcci\u00f3n"
+                        },
+                        {
+                            "url": "/Sets-bloques-construcci%C3%B3n/b/ref=dp_bc_3?ie=UTF8&node=26163085031",
+                            "name": "Bloques de construcci\u00f3n"
+                        }
+                    ]
+                }
+            ],
             "category_path": [],
             "currency": "EUR",
             "buybox": [
                 {
-                    "price": -1,
-                    "stock": "No disponible. Enviar a\u00a0Estados Unidos A\u00f1adir a la Lista de deseos A\u00f1adido a No se ha podido a\u00f1adir el producto a la lista de deseos. Por favor, int\u00e9ntalo de nuevo m\u00e1s tarde. Ha surgido un problema. Se ha producido un error al recuperar las listas de deseos. Int\u00e9ntalo de nuevo. Ha surgido un problema. La lista no est\u00e1 disponible."
+                    "price": -1
                 }
             ],
             "product_overview": [
                 {
-                    "title": "Tipo de conector",
-                    "description": "USB Tipo A, USB Tipo C"
-                },
-                {
                     "title": "Marca",
-                    "description": "Anker"
+                    "description": "LEGO"
                 },
                 {
-                    "title": "Capacidad de la bater\u00eda",
-                    "description": "25000 Miliamperios hora (mAh)"
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "120"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
                 },
                 {
                     "title": "Color",
-                    "description": "Negro"
+                    "description": "Rojo Y Dorado"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Habilidades de construcci\u00f3n"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "91"
+                },
+                {
+                    "title": "Tema",
+                    "description": "Superh\u00e9roe"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Spider-Man"
                 },
                 {
                     "title": "Funci\u00f3n especial",
-                    "description": "Built In Cable"
+                    "description": "Ligero"
                 },
                 {
-                    "title": "Tensi\u00f3n",
-                    "description": "5 Voltios"
-                },
-                {
-                    "title": "Composici\u00f3n de celdas de bater\u00eda",
-                    "description": "Pol\u00edmero de Litio"
-                },
-                {
-                    "title": "Usos recomendados para el producto",
-                    "description": "Phone"
-                },
-                {
-                    "title": "Fuente de alimentaci\u00f3n",
-                    "description": "El\u00e9ctrico con cable"
-                },
-                {
-                    "title": "Peso del producto",
-                    "description": "1,31 Libras"
+                    "title": "Nombre del modelo",
+                    "description": "Iron Spider-Man"
                 }
             ],
             "amazon_domain": "es",
             "geo_location": "",
-            "created_at": "2025-10-21T20:20:15.033435"
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.582026"
         },
         "3": {
-            "asin": "B0DCBB2YTR",
-            "url": "https://www.amazon.es/dp/B0DCBB2YTR?language=es_ES",
-            "brand": "Anker",
-            "price": 0,
-            "stock": "No disponible.",
-            "title": "Anker Zolo Power Bank Cargador port\u00e1til de 25000mAh y 165W, Tres Puertos USB-C de 100W MAX. para la Carga de Varios Dispositivos, Cables Integrados y retr\u00e1ctiles, para iPhone 17/16/15, MacBook y m\u00e1s",
-            "rating": 4.6,
+            "asin": "B0DWDT7G5Y",
+            "url": "https://www.amazon.es/dp/B0DWDT7G5Y?language=es_ES",
+            "brand": "LEGO",
+            "price": 80.36,
+            "stock": "En stock",
+            "title": "LEGO Marvel Quinjet de Vengadores: La Era de Ultr\u00f3n - Avi\u00f3n de Juguete de Superh\u00e9roes con Moto y 5 Minifiguras inc. Iron Man, Viuda Negra y Ojo de Halc\u00f3n - Regalo para Ni\u00f1os y Chicos de 12+ A\u00f1os 76325",
+            "rating": 3.9,
             "images": [
-                "https://m.media-amazon.com/images/I/71q4zHvR8oL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71vQXl+E3fL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71yLBjf8heL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71Dw4XszwwL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71+Z-vV4isL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71NDozBxZ+L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81nsHBClhZL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81q2+3PYndL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81n95htqWqL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81klN5mNWVL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81Mv3UGOQFL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81mDRJixe2L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/614E-VcNJ0L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91g4Wy6Nd5L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81zFp2DPKUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81LOZgdjgRL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/817la39MjnL._AC_SL1500_.jpg"
             ],
             "categories": [],
             "category_path": [],
             "currency": "EUR",
             "buybox": [
                 {
-                    "price": -1,
-                    "stock": "No disponible. Enviar a\u00a0Estados Unidos A\u00f1adir a la Lista de deseos A\u00f1adido a No se ha podido a\u00f1adir el producto a la lista de deseos. Por favor, int\u00e9ntalo de nuevo m\u00e1s tarde. Ha surgido un problema. Se ha producido un error al recuperar las listas de deseos. Int\u00e9ntalo de nuevo. Ha surgido un problema. La lista no est\u00e1 disponible."
+                    "price": 80.36,
+                    "stock": "En stock",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A1AT7YVPFBWXBL",
+                    "seller_name": "Amazon",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "ships_from_name": "Amazon",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "mi\u00e9rcoles, 29 de octubre"
+                            },
+                            "type": "Entrega por 7,60 \u20ac el"
+                        },
+                        {
+                            "date": {
+                                "by": "martes, 28 de octubre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida el"
+                        }
+                    ]
                 }
             ],
             "product_overview": [
                 {
-                    "title": "Tipo de conector",
-                    "description": "USB Tipo A, USB Tipo C"
-                },
-                {
                     "title": "Marca",
-                    "description": "Anker"
+                    "description": "LEGO"
                 },
                 {
-                    "title": "Capacidad de la bater\u00eda",
-                    "description": "25000 Miliamperios hora (mAh)"
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "144"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
                 },
                 {
                     "title": "Color",
-                    "description": "Negro"
+                    "description": "Multicolor"
                 },
                 {
-                    "title": "Funci\u00f3n especial",
-                    "description": "Built In Cable"
+                    "title": "N\u00famero de piezas",
+                    "description": "1131"
                 },
                 {
-                    "title": "Tensi\u00f3n",
-                    "description": "5 Voltios"
+                    "title": "Personaje en dibujos animados",
+                    "description": "Vengadores"
                 },
                 {
-                    "title": "Composici\u00f3n de celdas de bater\u00eda",
-                    "description": "Pol\u00edmero de Litio"
+                    "title": "Submarca",
+                    "description": "SUPER HEROES"
                 },
                 {
-                    "title": "Usos recomendados para el producto",
-                    "description": "Phone"
+                    "title": "Dimensiones del producto: largo x ancho x alto",
+                    "description": "45,6 x 28,2 x 8,8 cent\u00edmetros"
                 },
                 {
-                    "title": "Fuente de alimentaci\u00f3n",
-                    "description": "El\u00e9ctrico con cable"
+                    "title": "Rango de edad (descripci\u00f3n)",
+                    "description": "12+"
                 },
                 {
-                    "title": "Peso del producto",
-                    "description": "1,31 Libras"
+                    "title": "N\u00fam. de identificaci\u00f3n comercial global",
+                    "description": "05702017817972"
                 }
             ],
             "amazon_domain": "es",
             "geo_location": "",
-            "created_at": "2025-10-21T20:22:51.819026"
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.584765"
+        },
+        "4": {
+            "asin": "B09QFL7N6J",
+            "url": "https://www.amazon.es/dp/B09QFL7N6J?language=es_ES",
+            "brand": "LEGO",
+            "price": 109.29,
+            "stock": "Env\u00edo en 4 a 5 d\u00edas",
+            "title": "LEGO 76216 Marvel Armer\u00eda de Iron Man, Juguete de Construcci\u00f3n de los Vengadores con Mini Figuras y Trajes, Regalos de Cumplea\u00f1os para Ni\u00f1os",
+            "rating": 4.7,
+            "images": [
+                "https://m.media-amazon.com/images/I/91eLu6A5gkL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/41rn9JU2SGL._AC_.jpg",
+                "https://m.media-amazon.com/images/I/81-I3qL5gfL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71CJYtFq5LL._AC_SL1290_.jpg",
+                "https://m.media-amazon.com/images/I/91HzpZh-o6L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/814sldzafgL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81Jh-zFR8VL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/910mnl2+xvL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81YlozgPoCL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91rlQN+dObL._AC_SL1500_.jpg"
+            ],
+            "categories": [
+                {
+                    "ladder": [
+                        {
+                            "url": "/Juguetes-y-juegos/b/ref=dp_bc_1?ie=UTF8&node=599385031",
+                            "name": "Juguetes y juegos"
+                        },
+                        {
+                            "url": "/juegos-construccion-infantiles/b/ref=dp_bc_2?ie=UTF8&node=1641927031",
+                            "name": "Juegos de construcci\u00f3n"
+                        },
+                        {
+                            "url": "/Sets-construcci%C3%B3n/b/ref=dp_bc_3?ie=UTF8&node=26163078031",
+                            "name": "Sets de construcci\u00f3n"
+                        }
+                    ]
+                }
+            ],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 109.29,
+                    "stock": "Env\u00edo en 4 a 5 d\u00edas",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "condition": "109,29\u20ac",
+                    "seller_id": "AFUHH6UQUDFJ2",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AFUHH6UQUDFJ2&asin=B09QFL7N6J&ref_=dp_merchant_link",
+                    "seller_name": "MEGASTOREXPRESS",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n, a menos que la pol\u00edtica de devoluci\u00f3n del vendedor especifique condiciones de devoluci\u00f3n m\u00e1s favorables. Para conocer la pol\u00edtica de devoluciones del vendedor, haga clic en el nombre del vendedor ubicado en la secci\u00f3n \"Vendido por\".",
+                    "ships_from_name": "MEGASTOREXPRESS",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "10 de noviembre",
+                                "from": "5"
+                            },
+                            "type": "Entrega por 31,28 \u20ac entre el"
+                        },
+                        {
+                            "date": {
+                                "by": "10 de noviembre",
+                                "from": "5"
+                            },
+                            "type": "Entrega por 31,28 \u20ac entre el"
+                        }
+                    ]
+                },
+                {
+                    "price": 139,
+                    "stock": "S\u00f3lo queda(n) 1 en stock.",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "condition": " Rec\u00edbelo m\u00e1s r\u00e1pido ",
+                    "seller_id": "A27VO0KPWCQMYB",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A27VO0KPWCQMYB&asin=B09QFL7N6J&ref_=dp_merchant_link",
+                    "seller_name": "BRUNA SINCE 1981",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n, a menos que la pol\u00edtica de devoluci\u00f3n del vendedor especifique condiciones de devoluci\u00f3n m\u00e1s favorables. Para conocer la pol\u00edtica de devoluciones del vendedor, haga clic en el nombre del vendedor ubicado en la secci\u00f3n \"Vendido por\".",
+                    "ships_from_name": "BRUNA SINCE 1981",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "4 de noviembre",
+                                "from": "30 de octubre"
+                            },
+                            "type": "Entrega por 12,46 \u20ac entre el"
+                        },
+                        {
+                            "date": {
+                                "by": "4 de noviembre",
+                                "from": "30 de octubre"
+                            },
+                            "type": "Entrega por 12,46 \u20ac entre el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "9 an(s)"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "Color",
+                    "description": "Multicolor"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Habilidades de construcci\u00f3n"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "496"
+                },
+                {
+                    "title": "Tema",
+                    "description": "Superh\u00e9roe"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Iron Man"
+                },
+                {
+                    "title": "Submarca",
+                    "description": "Marvel"
+                },
+                {
+                    "title": "Funci\u00f3n especial",
+                    "description": "No t\u00f3xico"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.586356"
+        },
+        "5": {
+            "asin": "B0FT355YKV",
+            "url": "https://www.amazon.es/dp/B0FT355YKV?language=es_ES",
+            "brand": "BRICKCOMPLETE",
+            "price": 127.69,
+            "stock": "En stock",
+            "title": "Lego 76326 Iron Spider-Man Busto, 76327 Iron Man MK4 y 30679 Venoms Moto",
+            "rating": 0,
+            "images": [
+                "https://m.media-amazon.com/images/I/51VN4YRVJTL._AC_.jpg",
+                "https://m.media-amazon.com/images/I/51dbzetwu5L._AC_.jpg",
+                "https://m.media-amazon.com/images/I/51UCDsBzBfL._AC_.jpg",
+                "https://m.media-amazon.com/images/I/510K5EzKcbL._AC_.jpg",
+                "https://m.media-amazon.com/images/I/61pyH0st2IL._AC_.jpg",
+                "https://m.media-amazon.com/images/I/51HrzvUh3UL._AC_.jpg"
+            ],
+            "categories": [],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 127.69,
+                    "stock": "En stock",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A161UJEV1LEUDQ",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A161UJEV1LEUDQ&asin=B0FT355YKV&ref_=dp_merchant_link",
+                    "seller_name": "Brickcomplete",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n, a menos que la pol\u00edtica de devoluci\u00f3n del vendedor especifique condiciones de devoluci\u00f3n m\u00e1s favorables. Para conocer la pol\u00edtica de devoluciones del vendedor, haga clic en el nombre del vendedor ubicado en la secci\u00f3n \"Vendido por\".",
+                    "ships_from_name": "Brickcomplete",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "11 de noviembre",
+                                "from": "4"
+                            },
+                            "type": "Entrega por 14,90 \u20ac entre el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.588664"
+        },
+        "6": {
+            "asin": "B07Q96HCD2",
+            "url": "https://www.amazon.es/dp/B07Q96HCD2?language=es_ES",
+            "brand": "LEGO",
+            "price": 41.26,
+            "stock": "Env\u00edo en 4 a 5 d\u00edas",
+            "title": "LEGO Iron Man & Dum-E",
+            "rating": 4.6,
+            "images": [
+                "https://m.media-amazon.com/images/I/71+VsU5zVeL._AC_SL1000_.jpg"
+            ],
+            "categories": [
+                {
+                    "ladder": [
+                        {
+                            "url": "/Juguetes-y-juegos/b/ref=dp_bc_1?ie=UTF8&node=599385031",
+                            "name": "Juguetes y juegos"
+                        },
+                        {
+                            "url": "/juegos-construccion-infantiles/b/ref=dp_bc_2?ie=UTF8&node=1641927031",
+                            "name": "Juegos de construcci\u00f3n"
+                        },
+                        {
+                            "url": "/Sets-construcci%C3%B3n/b/ref=dp_bc_3?ie=UTF8&node=26163078031",
+                            "name": "Sets de construcci\u00f3n"
+                        }
+                    ]
+                }
+            ],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 41.26,
+                    "stock": "Env\u00edo en 4 a 5 d\u00edas",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A1OCV8TJWC033I",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1OCV8TJWC033I&asin=B07Q96HCD2&ref_=dp_merchant_link",
+                    "seller_name": "Bixem",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n, a menos que la pol\u00edtica de devoluci\u00f3n del vendedor especifique condiciones de devoluci\u00f3n m\u00e1s favorables. Para conocer la pol\u00edtica de devoluciones del vendedor, haga clic en el nombre del vendedor ubicado en la secci\u00f3n \"Vendido por\".",
+                    "ships_from_name": "Bixem"
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "72.0"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "Color",
+                    "description": "Multicolor"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Pensamiento creativo"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "38"
+                },
+                {
+                    "title": "Tema",
+                    "description": "Superh\u00e9roe"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Iron Man"
+                },
+                {
+                    "title": "Funci\u00f3n especial",
+                    "description": "No t\u00f3xico"
+                },
+                {
+                    "title": "Nombre del modelo",
+                    "description": "Iron Man and Dum-E 30452"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.591180"
+        },
+        "7": {
+            "asin": "B075T1Q4YN",
+            "url": "https://www.amazon.es/dp/B075T1Q4YN?language=es_ES",
+            "brand": "LEGO",
+            "price": 0,
+            "stock": "",
+            "title": "LEGO BrickHeadz - Iron Man MK50 (41604)",
+            "rating": 4.4,
+            "images": [
+                "https://m.media-amazon.com/images/I/616KAfFzgcL._AC_SL1024_.jpg",
+                "https://m.media-amazon.com/images/I/71wiCchnDGL._AC_SL1024_.jpg",
+                "https://m.media-amazon.com/images/I/61+4KmD-LkL._AC_SL1024_.jpg",
+                "https://m.media-amazon.com/images/I/61MpQEqVETL._AC_SL1024_.jpg",
+                "https://m.media-amazon.com/images/I/615dE5EKcUL._AC_SL1024_.jpg"
+            ],
+            "categories": [],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": -1
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "120.0"
+                },
+                {
+                    "title": "Material",
+                    "description": "Compuesto"
+                },
+                {
+                    "title": "Color",
+                    "description": "Colorido"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Habilidades de construcci\u00f3n"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "101"
+                },
+                {
+                    "title": "Tema",
+                    "description": "C\u00f3mics"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Iron Man"
+                },
+                {
+                    "title": "Submarca",
+                    "description": "Avengers"
+                },
+                {
+                    "title": "Nombre del modelo",
+                    "description": "41604,mk50"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.593889"
+        },
+        "8": {
+            "asin": "B07PXRMX2P",
+            "url": "https://www.amazon.es/dp/B07PXRMX2P?language=es_ES",
+            "brand": "LEGO",
+            "price": 14.99,
+            "stock": "En stock",
+            "title": "LEGO Avengers 30452 Iron Man & Dum-e Super Heroes",
+            "rating": 4.7,
+            "images": [
+                "https://m.media-amazon.com/images/I/61NN3QdUkSL._AC_SL1024_.jpg",
+                "https://m.media-amazon.com/images/I/41Zz9We-kkL._AC_.jpg",
+                "https://m.media-amazon.com/images/I/71kikbhDSVL._AC_SL1500_.jpg"
+            ],
+            "categories": [
+                {
+                    "ladder": [
+                        {
+                            "url": "/Juguetes-y-juegos/b/ref=dp_bc_1?ie=UTF8&node=599385031",
+                            "name": "Juguetes y juegos"
+                        },
+                        {
+                            "url": "/juegos-construccion-infantiles/b/ref=dp_bc_2?ie=UTF8&node=1641927031",
+                            "name": "Juegos de construcci\u00f3n"
+                        },
+                        {
+                            "url": "/Sets-construcci%C3%B3n/b/ref=dp_bc_3?ie=UTF8&node=26163078031",
+                            "name": "Sets de construcci\u00f3n"
+                        }
+                    ]
+                }
+            ],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 14.99,
+                    "stock": "En stock",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "condition": "14,99\u20ac",
+                    "seller_id": "A2Z4X5VKWZ6LZW",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2Z4X5VKWZ6LZW&asin=B07PXRMX2P&ref_=dp_merchant_link",
+                    "seller_name": "POLYBAGS24",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n, a menos que la pol\u00edtica de devoluci\u00f3n del vendedor especifique condiciones de devoluci\u00f3n m\u00e1s favorables. Para conocer la pol\u00edtica de devoluciones del vendedor, haga clic en el nombre del vendedor ubicado en la secci\u00f3n \"Vendido por\".",
+                    "ships_from_name": "POLYBAGS24",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "25 de noviembre",
+                                "from": "4"
+                            },
+                            "type": "Entrega GRATIS entre el"
+                        },
+                        {
+                            "date": {
+                                "by": "29 de octubre",
+                                "from": "27"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida entre el"
+                        },
+                        {
+                            "date": {
+                                "by": "25 de noviembre",
+                                "from": "4"
+                            },
+                            "type": "Entrega GRATIS entre el"
+                        },
+                        {
+                            "date": {
+                                "by": "29 de octubre",
+                                "from": "27"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida entre el"
+                        }
+                    ]
+                },
+                {
+                    "price": 14.03,
+                    "stock": "En stock",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "condition": " Rec\u00edbelo m\u00e1s r\u00e1pido ",
+                    "seller_id": "A1C0T2JH8H7MCC",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1C0T2JH8H7MCC&asin=B07PXRMX2P&ref_=dp_merchant_link&isAmazonFulfilled=1",
+                    "seller_name": "DreiSteineHoch",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n, a menos que la pol\u00edtica de devoluci\u00f3n del vendedor especifique condiciones de devoluci\u00f3n m\u00e1s favorables. Para conocer la pol\u00edtica de devoluciones del vendedor, haga clic en el nombre del vendedor ubicado en la secci\u00f3n \"Vendido por\".",
+                    "ships_from_name": "DreiSteineHoch",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "martes, 28 de octubre"
+                            },
+                            "type": "Entrega por 6,31 \u20ac el"
+                        },
+                        {
+                            "date": {
+                                "by": "s\u00e1bado, 25 de octubre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida el"
+                        },
+                        {
+                            "date": {
+                                "by": "martes, 28 de octubre"
+                            },
+                            "type": "Entrega por 6,31 \u20ac el"
+                        },
+                        {
+                            "date": {
+                                "by": "s\u00e1bado, 25 de octubre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Material",
+                    "description": "Hierro fundido"
+                },
+                {
+                    "title": "Color",
+                    "description": "Red, Red Gold"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Jugar."
+                },
+                {
+                    "title": "Tema",
+                    "description": "Superh\u00e9roe"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Veng"
+                },
+                {
+                    "title": "Funci\u00f3n especial",
+                    "description": "Figura"
+                },
+                {
+                    "title": "Nombre del modelo",
+                    "description": "Iron Man & Dum-e"
+                },
+                {
+                    "title": "Dimensiones del producto: largo x ancho x alto",
+                    "description": "16 x 8 x 15 cent\u00edmetros"
+                },
+                {
+                    "title": "Rango de edad (descripci\u00f3n)",
+                    "description": "Ni\u00f1o"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.596470"
+        },
+        "9": {
+            "asin": "B0F9XWMFRV",
+            "url": "https://www.amazon.es/dp/B0F9XWMFRV?language=es_ES",
+            "brand": "BRIKSMAX",
+            "price": 26.8,
+            "stock": "En stock",
+            "title": "BRIKSMAX Kit de iluminaci\u00f3n LED para Lego Marvel Busto de Iron Man MK4 - Compatible con Lego 76327 Building Blocks Model- No incluir el Conjunto de Lego",
+            "rating": 4.2,
+            "images": [
+                "https://m.media-amazon.com/images/I/715z7P419UL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71RkK42V5YL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71rV1cdp8xL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71TBBxeCLgL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71zw3fNH6eL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71tU2MhVsrL._AC_SL1500_.jpg"
+            ],
+            "categories": [],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 26.8,
+                    "stock": "En stock",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A3JHJBCAJ2ATLC",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3JHJBCAJ2ATLC&asin=B0F9XWMFRV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+                    "seller_name": "SuSenGo Toys",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "ships_from_name": "SuSenGo Toys",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "mi\u00e9rcoles, 29 de octubre"
+                            },
+                            "type": "Entrega por 6,45 \u20ac el"
+                        },
+                        {
+                            "date": {
+                                "by": "martes, 28 de octubre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Peso del producto",
+                    "description": "180 Gramos"
+                },
+                {
+                    "title": "Tipo de l\u00e1mpara",
+                    "description": "LED"
+                },
+                {
+                    "title": "Color de la pantalla de la l\u00e1mpara",
+                    "description": "Rojo"
+                },
+                {
+                    "title": "Material de la pantalla",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "Tipo de interruptor",
+                    "description": "Pulsador"
+                },
+                {
+                    "title": "Marca",
+                    "description": "BRIKSMAX"
+                },
+                {
+                    "title": "Color",
+                    "description": "Rojo"
+                },
+                {
+                    "title": "Tipo de fuente de iluminaci\u00f3n",
+                    "description": "LED"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "N\u00famero de fuentes de luz",
+                    "description": "10"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.598999"
+        },
+        "10": {
+            "asin": "B09JTY441B",
+            "url": "https://www.amazon.es/dp/B09JTY441B?language=es_ES",
+            "brand": "LEGO",
+            "price": 59.74,
+            "stock": "Env\u00edo en 4 a 5 d\u00edas",
+            "title": "LEGO Marvel Avengers Endgame Minifigure - Iron Man Mark 41 Armor (76125)",
+            "rating": 4.3,
+            "images": [
+                "https://m.media-amazon.com/images/I/71uH+59KDVL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71MoVI+CczL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/514w1SxT-XL._AC_SL1200_.jpg"
+            ],
+            "categories": [],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 59.74,
+                    "stock": "Env\u00edo en 4 a 5 d\u00edas",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A1OCV8TJWC033I",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1OCV8TJWC033I&asin=B09JTY441B&ref_=dp_merchant_link",
+                    "seller_name": "Bixem",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n, a menos que la pol\u00edtica de devoluci\u00f3n del vendedor especifique condiciones de devoluci\u00f3n m\u00e1s favorables. Para conocer la pol\u00edtica de devoluciones del vendedor, haga clic en el nombre del vendedor ubicado en la secci\u00f3n \"Vendido por\".",
+                    "ships_from_name": "Bixem",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "1 de diciembre",
+                                "from": "11 de noviembre"
+                            },
+                            "type": "Entrega por 11,23 \u20ac entre el"
+                        },
+                        {
+                            "date": {
+                                "by": "5 de noviembre",
+                                "from": "4"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida entre el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Tema",
+                    "description": "Marvel Avengers"
+                },
+                {
+                    "title": "Tipo de figura de juguete",
+                    "description": "Figura de acci\u00f3n"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Iron Man (Mark 41 Armor)"
+                },
+                {
+                    "title": "Requiere montaje",
+                    "description": "S\u00ed"
+                },
+                {
+                    "title": "Submarca",
+                    "description": "Marvel Avengers"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "144.00"
+                },
+                {
+                    "title": "Nombre del modelo",
+                    "description": "76125"
+                },
+                {
+                    "title": "Material para exteriores",
+                    "description": "pl\u00e1stico"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.601146"
+        },
+        "11": {
+            "asin": "B0CFW4BSM3",
+            "url": "https://www.amazon.es/dp/B0CFW4BSM3?language=es_ES",
+            "brand": "LEGO",
+            "price": 10.01,
+            "stock": "En stock",
+            "title": "LEGO Marvel Armadura Rob\u00f3tica de Venom vs. Miles Morales, Lucha Entre Superh\u00e9roes Articulados, Juguete de Construcci\u00f3n con Minifigura de Spider-Man, Regalo para Ni\u00f1os y Ni\u00f1as de 6 A\u00f1os o M\u00e1s 76276",
+            "rating": 4.8,
+            "images": [
+                "https://m.media-amazon.com/images/I/81CgoEpsywL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/6145m7h55zL._AC_SL1200_.jpg",
+                "https://m.media-amazon.com/images/I/81KH-Iz+k6L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81ikAwq+XvL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81q-TndoWZL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91M+qK2xiXL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81+Wj4qsENL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71BXYhoqC4L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91ObmokOkrL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Z5xUMyb-L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81oFveXdQ-L._AC_SL1500_.jpg"
+            ],
+            "categories": [
+                {
+                    "ladder": [
+                        {
+                            "url": "/Juguetes-y-juegos/b/ref=dp_bc_1?ie=UTF8&node=599385031",
+                            "name": "Juguetes y juegos"
+                        },
+                        {
+                            "url": "/juegos-construccion-infantiles/b/ref=dp_bc_2?ie=UTF8&node=1641927031",
+                            "name": "Juegos de construcci\u00f3n"
+                        },
+                        {
+                            "url": "/Sets-construcci%C3%B3n/b/ref=dp_bc_3?ie=UTF8&node=26163078031",
+                            "name": "Sets de construcci\u00f3n"
+                        }
+                    ]
+                }
+            ],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 10.01,
+                    "stock": "En stock",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A1AT7YVPFBWXBL",
+                    "seller_name": "Amazon",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "ships_from_name": "Amazon",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "martes, 28 de octubre"
+                            },
+                            "type": "Entrega por 6,42 \u20ac el"
+                        },
+                        {
+                            "date": {
+                                "by": "s\u00e1bado, 25 de octubre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "72"
+                },
+                {
+                    "title": "Material",
+                    "description": "Acrilonitrilo butadieno estireno"
+                },
+                {
+                    "title": "Color",
+                    "description": "Multicolor"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Desarrollo visual, Habilidades de construcci\u00f3n"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "134"
+                },
+                {
+                    "title": "Tema",
+                    "description": "Robot"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Venom y Miles Morales (Spider-Man)"
+                },
+                {
+                    "title": "Submarca",
+                    "description": "Marvel"
+                },
+                {
+                    "title": "Funci\u00f3n especial",
+                    "description": "Resistente a los ara\u00f1azos"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.603104"
+        },
+        "12": {
+            "asin": "B07WGJ4RWG",
+            "url": "https://www.amazon.es/dp/B07WGJ4RWG?language=es_ES",
+            "brand": "LEGO",
+            "price": 0,
+            "stock": "",
+            "title": "LEGO Marvel Avengers Iron Man Mech 76140 Kids\u2019 Superhero Mech Figure, Building Toy with Iron Man Mech and Minifigure, New 2020 (148 Pieces)",
+            "rating": 4.8,
+            "images": [
+                "https://m.media-amazon.com/images/I/71vnoTThlfL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/81Pj0-I22-L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/51w8IQWrz8L._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/51Z4BZ31bQL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/21KWSf+XNOL._AC_.jpg"
+            ],
+            "categories": [],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": -1
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "Color",
+                    "description": "Blanc-pop57"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Habilidades de construcci\u00f3n"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "148"
+                },
+                {
+                    "title": "Tema",
+                    "description": "Marvel"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Iron Man"
+                },
+                {
+                    "title": "Funci\u00f3n especial",
+                    "description": "No t\u00f3xico"
+                },
+                {
+                    "title": "Nombre del modelo",
+                    "description": "76140"
+                },
+                {
+                    "title": "Dimensiones del producto: largo x ancho x alto",
+                    "description": "14,1 x 19,1 x 4,6 cent\u00edmetros"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.605318"
+        },
+        "13": {
+            "asin": "B0DWDLM9XS",
+            "url": "https://www.amazon.es/dp/B0DWDLM9XS?language=es_ES",
+            "brand": "LEGO",
+            "price": 40.16,
+            "stock": "En stock",
+            "title": "LEGO Marvel Busto de Iron Spider-Man - Maqueta para Adultos de Figura de Superh\u00e9roe con 2 Brazos M\u00f3viles, Cabeza Giratoria y Minifigura - Regalo de la Colecci\u00f3n Vengadores para Hombres y Mujeres 76326",
+            "rating": 4.8,
+            "images": [
+                "https://m.media-amazon.com/images/I/81ZQ-egSVKL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/816pBqChUoL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81SQfjjIg-L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61QQ80nC58L._AC_SL1200_.jpg",
+                "https://m.media-amazon.com/images/I/81B+ipzo0gL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81iDIuwM7-L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81MTU7wCSQL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61Z8fIp-LcL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81tGRW9sUjL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81+bLM1fzOL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81odS9f+cJL._AC_SL1500_.jpg"
+            ],
+            "categories": [],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 40.16,
+                    "stock": "En stock",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A1AT7YVPFBWXBL",
+                    "seller_name": "Amazon",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "ships_from_name": "Amazon",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "martes, 28 de octubre"
+                            },
+                            "type": "Entrega por 6,66 \u20ac el"
+                        },
+                        {
+                            "date": {
+                                "by": "s\u00e1bado, 25 de octubre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "216"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "Color",
+                    "description": "Multicolor"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "379"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Marvel"
+                },
+                {
+                    "title": "Submarca",
+                    "description": "SUPER HEROES"
+                },
+                {
+                    "title": "Dimensiones del producto: largo x ancho x alto",
+                    "description": "26,2 x 22,2 x 6,2 cent\u00edmetros"
+                },
+                {
+                    "title": "Rango de edad (descripci\u00f3n)",
+                    "description": "18+"
+                },
+                {
+                    "title": "Tama\u00f1o",
+                    "description": "\u00fanica"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.607902"
+        },
+        "14": {
+            "asin": "B0CFW1FG68",
+            "url": "https://www.amazon.es/dp/B0CFW1FG68?language=es_ES",
+            "brand": "LEGO",
+            "price": 10.01,
+            "stock": "Env\u00edo en 1 a 2 meses",
+            "title": "LEGO Marvel Armadura Rob\u00f3tica de M\u00e1quina de Guerra, Figura de Acci\u00f3n de Juguete con Armas: 3 Ca\u00f1ones Que Disparan, Personaje Superh\u00e9roe UCM, Regalo para Cin\u00e9filos, Ni\u00f1os y Ni\u00f1as de 6 A\u00f1os o M\u00e1s 76277",
+            "rating": 4.7,
+            "images": [
+                "https://m.media-amazon.com/images/I/81thLacbhSL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61WzDUke1RL._AC_SL1200_.jpg",
+                "https://m.media-amazon.com/images/I/71yW68cOYYL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81-SUJc4ixL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81nkFHtlARL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71oCZrdKYkL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91U7d18-iXL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81JYTkA4LaL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81qfgy771GL._AC_SL1500_.jpg"
+            ],
+            "categories": [],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 10.01,
+                    "stock": "Env\u00edo en 1 a 2 meses",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A1AT7YVPFBWXBL",
+                    "seller_name": "Amazon",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "ships_from_name": "Amazon",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "5 de diciembre",
+                                "from": "11 de noviembre"
+                            },
+                            "type": "Entrega por 6,43 \u20ac entre el"
+                        },
+                        {
+                            "date": {
+                                "by": "3 de diciembre",
+                                "from": "10 de noviembre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida entre el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "72"
+                },
+                {
+                    "title": "Material",
+                    "description": "Acrilonitrilo butadieno estireno"
+                },
+                {
+                    "title": "Color",
+                    "description": "Multicolor"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Desarrollo visual, Habilidades de construcci\u00f3n"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "154"
+                },
+                {
+                    "title": "Tema",
+                    "description": "Anime, Fantas\u00eda, Pel\u00edcula"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Marvel"
+                },
+                {
+                    "title": "Funci\u00f3n especial",
+                    "description": "Figura"
+                },
+                {
+                    "title": "Nombre del modelo",
+                    "description": "76277"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.610706"
+        },
+        "15": {
+            "asin": "B0DHSDFNW1",
+            "url": "https://www.amazon.es/dp/B0DHSDFNW1?language=es_ES",
+            "brand": "LEGO",
+            "price": 10.01,
+            "stock": "",
+            "title": "LEGO Marvel Armadura Rob\u00f3tica de Spider-Man vs. el Anti-Venom Juguete de Superh\u00e9roes con Figura de Robot y Minifiguras, Juego de rol y Batalla, Regalo para Ni\u00f1os y Ni\u00f1as de 6 A\u00f1os o M\u00e1s 76308",
+            "rating": 4.7,
+            "images": [
+                "https://m.media-amazon.com/images/I/81bzeesSmHL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81C8yPsyRfL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81yazK+wNEL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/817W3AsYFjL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81c507bj11L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81ahgfxIxVL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81rjIP8rG5L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71pi8x28fxL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/819-xKAvJlL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71YZCD385KL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81LOZgdjgRL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/818Z8SWvWrL._AC_SL1500_.jpg"
+            ],
+            "categories": [],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 10.01,
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A1AT7YVPFBWXBL",
+                    "seller_name": "Amazon",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "ships_from_name": "Amazon",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "25 de noviembre",
+                                "from": "24"
+                            },
+                            "type": "Entrega por 6,41 \u20ac entre el"
+                        },
+                        {
+                            "date": {
+                                "by": "viernes, 21 de noviembre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "72"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "Color",
+                    "description": "Multicolor"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Pensamiento creativo, Inteligencia emocional, Desarrollo de la imaginaci\u00f3n, Habilidades motoras, Habilidades sociales"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "107"
+                },
+                {
+                    "title": "Dimensiones del producto: largo x ancho x alto",
+                    "description": "15,7 x 14,1 x 4,5 cent\u00edmetros"
+                },
+                {
+                    "title": "Rango de edad (descripci\u00f3n)",
+                    "description": "6+"
+                },
+                {
+                    "title": "N\u00fam. de identificaci\u00f3n comercial global",
+                    "description": "05702017817811"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.613542"
+        },
+        "16": {
+            "asin": "B0DSJ2DCGM",
+            "url": "https://www.amazon.es/dp/B0DSJ2DCGM?language=es_ES",
+            "brand": "Reobrix",
+            "price": 89.33,
+            "stock": "En stock",
+            "title": "Set Reobrix F-15E Strike Eagle: Modelo Coleccionable de Caza Militar 33034 Juguete Stem 14+ para Fans de aviaci\u00f3n \uff082216pzs\uff09",
+            "rating": 3.8,
+            "images": [
+                "https://m.media-amazon.com/images/I/71B9obXBhWL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71wD9CZF+BL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/7170lphyZAL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71oMAwxHRqL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81PMn2oc-gL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Ou43Yyj9L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81HXA0vLUSL._AC_SL1500_.jpg"
+            ],
+            "categories": [],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 89.33,
+                    "stock": "En stock",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A3NFYV45PWYEHJ",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3NFYV45PWYEHJ&asin=B0DSJ2DCGM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+                    "seller_name": "reobrix",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "ships_from_name": "reobrix",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "mi\u00e9rcoles, 29 de octubre"
+                            },
+                            "type": "Entrega por 7,93 \u20ac el"
+                        },
+                        {
+                            "date": {
+                                "by": "martes, 28 de octubre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "Reobrix"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "168.0"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "100%"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "2216"
+                },
+                {
+                    "title": "Tema",
+                    "description": "Avi\u00f3n, Militar"
+                },
+                {
+                    "title": "Nombre del modelo",
+                    "description": "F-15E Fighter Jet"
+                },
+                {
+                    "title": "Dimensiones del producto: largo x ancho x alto",
+                    "description": "55,5 x 36,5 x 17 cent\u00edmetros"
+                },
+                {
+                    "title": "Peso del producto",
+                    "description": "4,56 Libras"
+                },
+                {
+                    "title": "Rango de edad (descripci\u00f3n)",
+                    "description": "Adulto"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.616016"
+        },
+        "17": {
+            "asin": "B09245H1H7",
+            "url": "https://www.amazon.es/dp/B09245H1H7?language=es_ES",
+            "brand": "ROBOTIME",
+            "price": 43.27,
+            "stock": "En stock",
+            "title": "ROBOTIME Marble Run 3D Maquetas Madera Modelo De Kits para Adultos para Laser Cut Puzzle Construir Montar Construcci\u00f3n Artesan\u00eda Jigsaw Cumplea\u00f1os o D\u00eda de los Reyes Magos Ciudad Noche",
+            "rating": 4.5,
+            "images": [
+                "https://m.media-amazon.com/images/I/81tszOcdPPL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/8114tvqdYwS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71O3PdCuZ+L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81f6Hmg1tpL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81EZ9daPUJL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81GtbXAa0CL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81AgCFHGiKS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/812FxoOC3mL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Mrgx1dR4L._AC_SL1486_.jpg"
+            ],
+            "categories": [
+                {
+                    "ladder": [
+                        {
+                            "url": "/Juguetes-y-juegos/b/ref=dp_bc_1?ie=UTF8&node=599385031",
+                            "name": "Juguetes y juegos"
+                        },
+                        {
+                            "url": "/puzzles-rompecabezas/b/ref=dp_bc_2?ie=UTF8&node=1642133031",
+                            "name": "Puzzles y rompecabezas"
+                        },
+                        {
+                            "url": "/puzzles-3d/b/ref=dp_bc_3?ie=UTF8&node=1642136031",
+                            "name": "Puzzles 3D"
+                        }
+                    ]
+                }
+            ],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 43.27,
+                    "stock": "En stock",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A1XEEFI6LIDY63",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1XEEFI6LIDY63&asin=B09245H1H7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+                    "seller_name": "Robotime",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "ships_from_name": "Robotime",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "mi\u00e9rcoles, 29 de octubre"
+                            },
+                            "type": "Entrega por 7,36 \u20ac el"
+                        },
+                        {
+                            "date": {
+                                "by": "martes, 28 de octubre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Tama\u00f1o",
+                    "description": "32.5 x 21.4 x 22.8 cm"
+                },
+                {
+                    "title": "Marca",
+                    "description": "ROBOTIME"
+                },
+                {
+                    "title": "Material",
+                    "description": "Madera Acr\u00edlico"
+                },
+                {
+                    "title": "Rango de edad (descripci\u00f3n)",
+                    "description": "Adultos"
+                },
+                {
+                    "title": "Dimensiones del producto: largo x ancho x alto",
+                    "description": "32,5 x 21,4 x 22,8 cent\u00edmetros"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Conciencia espacial, Destreza, Habilidad motora, Soluci\u00f3n de problemas"
+                },
+                {
+                    "title": "Tema",
+                    "description": "Construcci\u00f3n"
+                },
+                {
+                    "title": "N\u00famero de unidades",
+                    "description": "253.0 Conteo"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.618581"
+        },
+        "18": {
+            "asin": "B0DHSCHKV6",
+            "url": "https://www.amazon.es/dp/B0DHSCHKV6?language=es_ES",
+            "brand": "LEGO",
+            "price": 10.01,
+            "stock": "En stock",
+            "title": "LEGO Marvel Armadura Rob\u00f3tica de Iron Man vs. Ultr\u00f3n Juguete de Superh\u00e9roes con Minifiguras, Figura Articulada de Robot, Juego de rol y Batalla, Regalo para Ni\u00f1os y Ni\u00f1as de 6 A\u00f1os 76307",
+            "rating": 4.7,
+            "images": [
+                "https://m.media-amazon.com/images/I/81L8oQ0D9QL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81w0f5xcviL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81RI2jzSc+L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81si13eW-UL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/810Plg1VtaL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81hSNHT9W7L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91YnLv6aJUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Lylv6bTaL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81fRPlyPy9L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81ALO3F8KGL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81LOZgdjgRL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81tCNCDBpBL._AC_SL1500_.jpg"
+            ],
+            "categories": [],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 10.01,
+                    "stock": "En stock",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A1AT7YVPFBWXBL",
+                    "seller_name": "Amazon",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "ships_from_name": "Amazon",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "mi\u00e9rcoles, 29 de octubre"
+                            },
+                            "type": "Entrega por 6,41 \u20ac el"
+                        },
+                        {
+                            "date": {
+                                "by": "martes, 28 de octubre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "72"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "Color",
+                    "description": "Multicolor"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Pensamiento creativo, Inteligencia emocional, Desarrollo de la imaginaci\u00f3n, Habilidades motoras, Habilidades sociales"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "101"
+                },
+                {
+                    "title": "Dimensiones del producto: largo x ancho x alto",
+                    "description": "15,7 x 14,1 x 4,5 cent\u00edmetros"
+                },
+                {
+                    "title": "Rango de edad (descripci\u00f3n)",
+                    "description": "6+"
+                },
+                {
+                    "title": "N\u00fam. de identificaci\u00f3n comercial global",
+                    "description": "05702017817804"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.621416"
+        },
+        "19": {
+            "asin": "B075T2P9JV",
+            "url": "https://www.amazon.es/dp/B075T2P9JV?language=es_ES",
+            "brand": "LEGO",
+            "price": 32,
+            "stock": "S\u00f3lo queda(n) 1 en stock.",
+            "title": "LEGO 11 Avengers Iron Man Bloque de construcci\u00f3n Conf Brickheadz 2018 27.9 cm, Multicolor (41607)",
+            "rating": 4.6,
+            "images": [
+                "https://m.media-amazon.com/images/I/61Vowg2iPWL._AC_SL1200_.jpg",
+                "https://m.media-amazon.com/images/I/71sEfOVKq0L._AC_SL1200_.jpg",
+                "https://m.media-amazon.com/images/I/616HaJLh1DL._AC_SL1200_.jpg",
+                "https://m.media-amazon.com/images/I/61hPZ8IW3jL._AC_SL1200_.jpg",
+                "https://m.media-amazon.com/images/I/71obeIFqYDL._AC_SL1200_.jpg"
+            ],
+            "categories": [
+                {
+                    "ladder": [
+                        {
+                            "url": "/Juguetes-y-juegos/b/ref=dp_bc_1?ie=UTF8&node=599385031",
+                            "name": "Juguetes y juegos"
+                        },
+                        {
+                            "url": "/juegos-construccion-infantiles/b/ref=dp_bc_2?ie=UTF8&node=1641927031",
+                            "name": "Juegos de construcci\u00f3n"
+                        },
+                        {
+                            "url": "/Sets-construcci%C3%B3n/b/ref=dp_bc_3?ie=UTF8&node=26163078031",
+                            "name": "Sets de construcci\u00f3n"
+                        }
+                    ]
+                }
+            ],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 32,
+                    "stock": "S\u00f3lo queda(n) 1 en stock.",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A27VO0KPWCQMYB",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A27VO0KPWCQMYB&asin=B075T2P9JV&ref_=dp_merchant_link",
+                    "seller_name": "BRUNA SINCE 1981",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n, a menos que la pol\u00edtica de devoluci\u00f3n del vendedor especifique condiciones de devoluci\u00f3n m\u00e1s favorables. Para conocer la pol\u00edtica de devoluciones del vendedor, haga clic en el nombre del vendedor ubicado en la secci\u00f3n \"Vendido por\".",
+                    "ships_from_name": "BRUNA SINCE 1981",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "5 de noviembre",
+                                "from": "30 de octubre"
+                            },
+                            "type": "Entrega por 10,46 \u20ac entre el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "120.0"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "Color",
+                    "description": "Multicolor"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Habilidades de formaci\u00f3n de equipo"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "136"
+                },
+                {
+                    "title": "Tema",
+                    "description": "Logotipo, edificio"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Iron Man"
+                },
+                {
+                    "title": "Submarca",
+                    "description": "Avengers"
+                },
+                {
+                    "title": "Nombre del modelo",
+                    "description": "Conf Brickheadz 2018 11"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.624607"
+        },
+        "20": {
+            "asin": "B09BNYHY7Z",
+            "url": "https://www.amazon.es/dp/B09BNYHY7Z?language=es_ES",
+            "brand": "LEGO",
+            "price": 25.9,
+            "stock": "",
+            "title": "LEGO 76203 Super Heroes Armadura Mech de Iron Man",
+            "rating": 4.6,
+            "images": [
+                "https://m.media-amazon.com/images/I/81hMvJTGeUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81E-Do-guzL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/817NN8PuJIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/816UX0r6IaL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81X88U3+HjL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71tk7-06u4L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91IIK2w6SqL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/8103LoZZOPL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81scOwz52lL._AC_SL1500_.jpg"
+            ],
+            "categories": [],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 25.9,
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A2143HFG9JNB1D",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2143HFG9JNB1D&asin=B09BNYHY7Z&ref_=dp_merchant_link&isAmazonFulfilled=1",
+                    "seller_name": "VIBESSTORE",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "ships_from_name": "VIBESSTORE",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "5 de noviembre",
+                                "from": "3"
+                            },
+                            "type": "Entrega por 6,39 \u20ac entre el"
+                        },
+                        {
+                            "date": {
+                                "by": "3 de noviembre",
+                                "from": "31 de octubre"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida entre el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "99"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "Color",
+                    "description": "Multicolor"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Habilidades de construcci\u00f3n"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "130"
+                },
+                {
+                    "title": "Tema",
+                    "description": "Figura de Juguete"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Iron Man"
+                },
+                {
+                    "title": "Submarca",
+                    "description": "Marvel"
+                },
+                {
+                    "title": "Funci\u00f3n especial",
+                    "description": "F\u00e1cil de almacenar"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.627703"
+        },
+        "21": {
+            "asin": "B0BSRFKZ8M",
+            "url": "https://www.amazon.es/dp/B0BSRFKZ8M?language=es_ES",
+            "brand": "LEGO",
+            "price": 215.99,
+            "stock": "S\u00f3lo queda(n) 1 en stock.",
+            "title": "LEGO Marvel Captain America's Shield - Juego de construcci\u00f3n coleccionable - Rompecabezas 3D para adultos a partir de 18 a\u00f1os - R\u00e9plica del escudo ic\u00f3nico - Idea de regalo para cumplea\u00f1os - Artesan\u00eda",
+            "rating": 4.8,
+            "images": [
+                "https://m.media-amazon.com/images/I/816mURs0SSL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81uRI8aGniL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/813sp8SOjVL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81GclIXzwpL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81VONvR5HiL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81UihTbIVWL._AC_SL1500_.jpg"
+            ],
+            "categories": [
+                {
+                    "ladder": [
+                        {
+                            "url": "/Juguetes-y-juegos/b/ref=dp_bc_1?ie=UTF8&node=599385031",
+                            "name": "Juguetes y juegos"
+                        },
+                        {
+                            "url": "/juegos-construccion-infantiles/b/ref=dp_bc_2?ie=UTF8&node=1641927031",
+                            "name": "Juegos de construcci\u00f3n"
+                        },
+                        {
+                            "url": "/Sets-construcci%C3%B3n/b/ref=dp_bc_3?ie=UTF8&node=26163078031",
+                            "name": "Sets de construcci\u00f3n"
+                        }
+                    ]
+                }
+            ],
+            "category_path": [],
+            "currency": "EUR",
+            "buybox": [
+                {
+                    "price": 215.99,
+                    "stock": "S\u00f3lo queda(n) 1 en stock.",
+                    "returns": "Se puede devolver en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n",
+                    "seller_id": "A5SM785FRYC0T",
+                    "seller_url": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A5SM785FRYC0T&asin=B0BSRFKZ8M&ref_=dp_merchant_link",
+                    "seller_name": "3 BRICKS",
+                    "return_policy": "El producto se puede devolver en su condici\u00f3n original para obtener un reembolso completo en un plazo de 30 d\u00edas a partir de la fecha de recepci\u00f3n, a menos que la pol\u00edtica de devoluci\u00f3n del vendedor especifique condiciones de devoluci\u00f3n m\u00e1s favorables. Para conocer la pol\u00edtica de devoluciones del vendedor, haga clic en el nombre del vendedor ubicado en la secci\u00f3n \"Vendido por\".",
+                    "ships_from_name": "3 BRICKS",
+                    "delivery_details": [
+                        {
+                            "date": {
+                                "by": "26 de noviembre",
+                                "from": "5"
+                            },
+                            "type": "Entrega por 24,55 \u20ac entre el"
+                        },
+                        {
+                            "date": {
+                                "by": "31 de octubre",
+                                "from": "29"
+                            },
+                            "type": "entrega m\u00e1s r\u00e1pida entre el"
+                        }
+                    ]
+                }
+            ],
+            "product_overview": [
+                {
+                    "title": "Marca",
+                    "description": "LEGO"
+                },
+                {
+                    "title": "Edad m\u00ednima seg\u00fan el fabricante (MESES)",
+                    "description": "216.0"
+                },
+                {
+                    "title": "Material",
+                    "description": "Pl\u00e1stico"
+                },
+                {
+                    "title": "Color",
+                    "description": "Multicolor"
+                },
+                {
+                    "title": "Objetivo educativo",
+                    "description": "Pensamiento creativo"
+                },
+                {
+                    "title": "N\u00famero de piezas",
+                    "description": "3128"
+                },
+                {
+                    "title": "Tema",
+                    "description": "Arquitectura"
+                },
+                {
+                    "title": "Personaje en dibujos animados",
+                    "description": "Capit\u00e1n Am\u00e9rica"
+                },
+                {
+                    "title": "Submarca",
+                    "description": "LEGO Super Heroes"
+                },
+                {
+                    "title": "Funci\u00f3n especial",
+                    "description": "Soporte de exhibici\u00f3n incluido"
+                }
+            ],
+            "amazon_domain": "es",
+            "geo_location": "",
+            "parent_asin": "B0DHZ5X3K3",
+            "created_at": "2025-10-23T17:26:06.630824"
         }
     }
 }
